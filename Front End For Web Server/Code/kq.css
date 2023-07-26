@@ -1,0 +1,62 @@
+body {
+    background-image: url(/img/Backg.jpg);
+    margin: 0;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+head {
+    background: #1C6EA4;
+    background: -moz-linear-gradient(top, #1C6EA4 0%, #144E75 100%);
+    background: -webkit-linear-gradient(top, #1C6EA4 0%, #144E75 100%);
+    background: linear-gradient(to bottom, #1C6EA4 0%, #144E75 100%);
+}
+
+
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    background: #1C6EA4;
+    background: -moz-linear-gradient(top, #1C6EA4 0%, #144E75 100%);
+    background: -webkit-linear-gradient(top, #1C6EA4 0%, #144E75 100%);
+    background: linear-gradient(to bottom, #1C6EA4 0%, #144E75 100%);
+}
+
+.Web-Name {
+    margin-left: center;
+    margin-right: center;
+    background: #1C6EA4;
+    background: -moz-linear-gradient(top, #1C6EA4 0%, #144E75 100%);
+    background: -webkit-linear-gradient(top, #1C6EA4 0%, #144E75 100%);
+    background: linear-gradient(to bottom, #1C6EA4 0%, #144E75 100%);
+    -webkit-box-shadow: -13px 1px 1px 1px #1C6EA4;
+    box-shadow: -20px 10px 40px 2px #1C6EA4;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Info {
+    margin-left: center;
+    margin-right: center;
+    min-height: 1rem;
+    font-size: 25px;
+    text-decoration: none;
+    background: gray;
+    display: flex;
+    justify-content: space-around ;
+    align-items: start;
+    background: gray;
+    padding: 0 1.5rem;
+}
+
+
