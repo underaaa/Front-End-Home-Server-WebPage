@@ -18,7 +18,17 @@
                         <a href="/">How It's Made</a>
                         <a href="/">Contacts</a>
                     </div>
-                    
+                </nav>
+                <nav class="Test">
+                    <ul>
+                        <li>
+                        <div><a href="/"><img src="/Img/Minecraft.jpg" alt="Mine"></a></div>
+                        <div><a href="/"><img src="/Img/Nextcloud.jpg" alt="Next"></a></div>
+                        <div><a href="/"><img src="/Img/Plex.png" alt="Plex"></a></div>
+                        <div><a href="/"><img src="/Img/Web.jpg" alt="Web"></a></div>
+                    </li>
+                    </ul>
+                </nav>
 
 </body>
 </html>
