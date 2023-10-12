@@ -3,32 +3,24 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="kq.css">
         <header>
-            <link rel="stylesheet" href="kq.css">
-            <div class="title">
-                <title>Home Server</title>
-            </head>
-            </header>
-            </div>
-            <body>
-                <nav>
-                    <div class="Web-Name">Under Home Server</div>
-                    <div class="Info">
-                        <a href="/">About Me</a>
-                        <a href="/">How It's Made</a>
-                        <a href="/">Contacts</a>
-                    </div>
-                </nav>
-                <nav class="Test">
-                    <ul>
-                        <li>
-                        <div><a href="/"><img src="/Img/Minecraft.jpg" alt="Mine"></a></div>
-                        <div><a href="/"><img src="/Img/Nextcloud.jpg" alt="Next"></a></div>
-                        <div><a href="/"><img src="/Img/Plex.png" alt="Plex"></a></div>
-                        <div><a href="/"><img src="/Img/Web.jpg" alt="Web"></a></div>
-                    </li>
-                    </ul>
-                </nav>
-
-</body>
+            <title>Home Server</title>
+        </head>
+    </header>
+    <body>
+        <nav>
+            <div class="Web-Name">Under Home Server</div>    
+        </nav>
+        <nav class="Test">
+            <ul>
+                <li>
+                    <div><a href="/"><img src="/Img/Minecraft.jpg" alt="Mine"></a></div>
+                    <div><a href="/"><img src="/Img/Nextcloud.jpg" alt="Next"></a></div>
+                    <div><a href="/"><img src="/Img/Plex.png" alt="Plex"></a></div>
+                    <div><a href="/"><img src="/Img/Web.jpg" alt="Web"></a></div>
+                </li>
+            </ul>
+        </nav>
+    </body>
 </html>
